@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![egoist000 stats](https://github-readme-stats.vercel.app/api?username=egoist000&count_private=true&show_icons=true&theme=merko)
 <!--
 **egoist000/egoist000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
