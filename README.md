@@ -31,6 +31,17 @@
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
             alt="xamarin" width="60" height="60" /> </a>
 </p>
+<p align="left">
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            alt="sass" width="60" height="60" /> </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+            alt="nodejs" width="60" height="60" /> </a>
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
+            alt="webpack" width="60" height="60" /> </a>
+</p>
 <!--
 **egoist000/egoist000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
