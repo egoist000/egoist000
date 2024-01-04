@@ -1,5 +1,7 @@
 ### Hi there 👋
-![egoist000 stats](https://github-readme-stats.vercel.app/api?username=egoist000&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
+<!-- 
+[egoist000 stats](https://github-readme-stats.vercel.app/api?username=egoist000&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
+-->!
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoist000&layout=compact&exclude_repo=exercism)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Languages and Tools:</h3>
